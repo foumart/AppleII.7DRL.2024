@@ -1,0 +1,9 @@
+node_modules
+public
+bin
+tmp
+emulator
+package-lock.json
+.vscode
+.github
+.git
