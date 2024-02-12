@@ -38,9 +38,16 @@ let allfiles;
 
 // Copy the Apple II web emulator
 function app(cb) {
-	src('emulator/**/*', { allowEmpty: true })
-		.pipe(dest(dir+'/'))
-		.on("end", cb)
+	var emulatorPath = 'emulator/';
+	fs.access(emulatorPath, fs.constants.F_OK, (err) => {
+		if (err) {
+			throw new Error("Please copy the emulator!");
+		} else {
+			src('emulator/**/*', { allowEmpty: true })
+				.pipe(dest(dir+'/'))
+				.on("end", cb)
+		}
+	});
 }
 
 // Copy the source dsk image (name should be the same as project name + .DSK)

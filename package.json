@@ -1,5 +1,5 @@
 {
-	"name": "a2-project",
+	"name": "7DRL2024",
 	"version": "0.0.1",
 	"description": "BASIC Project setup for Apple II with automatic build and live-reload",
 	"main": "src/scripts/app.js",
@@ -22,7 +22,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/foumart/AppleII.Project.template/"
+		"url": "git+https://github.com/foumart/AppleII.7DRL.2024"
 	},
 	"author": {
 		"name": "Noncho Savov",
