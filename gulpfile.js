@@ -27,8 +27,10 @@ const retroassembler = "C:/Standalone/AppleWin/retroassembler/retroassembler.exe
 // temporary vars used during build
 const bas = [];// holds bas file names found in src/
 const bin = [];// holds bin file names found in src/
+const txt = [];// holds txt file names found in src/
 const bascallbacks = [];// holds if the corresponding basic file compilation process is complete or not
 const bincallbacks = [];// holds if the corresponding binary file compilation process is complete or not
+const txtcallbacks = [];// holds if the corresponding text file compilation process is complete or not
 let currentfile;
 let allfiles;
 
@@ -87,6 +89,7 @@ function readFile(files, cb) {
 		// =======================================================================================
 		bas.push(file);
 		bascallbacks.push(false);
+		//console.log(`java -jar ${appleCommander} -bas public/json/disks/${title}.dsk ${name} bas 0x800 < public/tmp/${file}`);
 		executeJava(`java -jar ${appleCommander} -bas public/json/disks/${title}.dsk ${name} bas 0x800 < public/tmp/${file}`, e => {
 			console.log(`Compiled BASIC file: ${name} at $800 from public/tmp/${file}`);
 			bascallbacks[bas.indexOf(file)] = true;
@@ -160,6 +163,20 @@ function readFile(files, cb) {
 				}
 			});
 		});
+	} else if (file.toLowerCase().indexOf('.txt') > -1) {
+		// Compile a pure text file (.txt) and insert into the DSK
+		// ========================================================
+		txt.push(file);
+		txtcallbacks.push(false);
+		executeJava(`java -jar ${appleCommander} -ptx public/json/disks/${title}.dsk ${name} txt < public/tmp/${name}.txt`, e => {
+			console.log(`Copied TXT file: ${name} from public/tmp/${file}`);
+			txtcallbacks[txt.indexOf(file)] = true;
+			if (checkCompilation()) cb();
+			else {
+				if (currentfile ++>= allfiles) cb();
+				else readFile(files, cb);
+			}
+		});
 	} else {
 		console.log("File " + file + " format unknown! (" + file.substring(file.length-4) + ") ");
 	}
@@ -174,6 +191,9 @@ function checkCompilation() {
 	}
 	for (var i = 0; i < bincallbacks.length; i ++) {
 		if (!bincallbacks[i]) check = false;
+	}
+	for (var i = 0; i < txtcallbacks.length; i ++) {
+		if (!txtcallbacks[i]) check = false;
 	}
 	if (check) {
 		//console.log(`""`);
@@ -199,7 +219,7 @@ function checkCompilation() {
 // execute scripts'n stuff
 function executeJava(cmdCode, cb) {
 	exec(cmdCode,
-		function (error, stdout, stderr){//console.log(JSON.stringify(stdout));
+		function (error, stdout, stderr) {//console.log(JSON.stringify(stdout));
 			if (stdout) console.log(cmdCode + ' stdout: ' + JSON.stringify(stdout));
 			if (stderr) console.log(cmdCode + ' stderr: ' + stderr);
 			if (error !== null) console.log('exec error: ' + error); else cb();
