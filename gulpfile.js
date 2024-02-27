@@ -168,7 +168,7 @@ function readFile(files, cb) {
 		// ========================================================
 		txt.push(file);
 		txtcallbacks.push(false);
-		executeJava(`java -jar ${appleCommander} -ptx public/json/disks/${title}.dsk ${name} txt < public/tmp/${name}.txt`, e => {
+		executeJava(`java -jar ${appleCommander} -pt public/json/disks/${title}.dsk ${name} txt < public/tmp/${name}.txt`, e => {
 			console.log(`Copied TXT file: ${name} from public/tmp/${file}`);
 			txtcallbacks[txt.indexOf(file)] = true;
 			if (checkCompilation()) cb();
