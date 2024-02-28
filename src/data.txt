@@ -1,4 +1,4 @@
-23
+24
 46
 1
 ~~~{I}_{I}_{I}_{I}_{IVW}[  Party  ]{WVI}_{I}_{I}_{I}_{I
@@ -16,11 +16,12 @@
 ~~Z}                               {_
 ~~ZI}_{I}_{I}_{IVW}[  Encounter  ]{WVI}_{I}_{I}_{I_}
 ~[ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
-~[ ]  You face  3 Orcs       ('20)  [ ]
+~[ ]  You face` 3 Orcs       ('20)  [ ]
 ~[ ]            2 Orcs       ('30)  [ ]
 ~[ ]            2 Goblins    ('40)  [ ]
 ~[ ]            1 Spetre     ('50)  [ ]
 ~[ ]            {I}                   [ ]
 ~[ ]________________________________[ ]
-~{LLLLLLLLLL;;;LLLLLLLLLL;;;LLLLLLLL}
-~~Will you [>F<] Fight or [>R<] Run ?
+~{LLLLLLLLL;;;LLLLLLLLLLL;;;LLLLLLLL}
+~Will you{Z}[>A<]{_}Attack or{Z}[>R<]{_}Retreat
+~~~~~~~~~~{LLL}           {LLL}
