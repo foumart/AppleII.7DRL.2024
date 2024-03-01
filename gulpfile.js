@@ -179,6 +179,7 @@ function readFile(files, cb) {
 		});
 	} else {
 		console.log("File " + file + " format unknown! (" + file.substring(file.length-4) + ") ");
+		cb();
 	}
 }
 

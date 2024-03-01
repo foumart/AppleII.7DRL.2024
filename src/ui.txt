@@ -1,18 +1,27 @@
-15
-46
+24
 1
-~~~{I}_{I}_{I}_{I}_{IVW}[  Party  ]{WVI}_{I}_{I}_{I}_{I
-~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-~~Z} 1.                            {_
-~~Z}                               {_
-~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-~~Z} 2.                            {_
-~~Z}                               {_
-~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-~~Z} 3.                            {_
-~~Z}                               {_
-~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-~~Z} 4.                            {_
-~~Z}                               {_
-~~Z}_______________________________{_}
-~~~{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}
+1
+~{I}_{I}_{I}_{I}_{I}_{I}_{I}_{IVW}[  Story  ]{WVI}_{I}_{I}_{I}_{I}_{I}_{I}_{I~~~~{I}_{I}_{I}_{I}_{IVW}[  Party  ]{WVI}_{I}_{I}_{I}_{I
+ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z}                                           {_~~Z} 1.                            {_
+Z}                     {I}                     {_~~Z}                               {_
+Z}                                           {_~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z}                                           {_~~Z} 2.                            {_
+Z}                                           {_~~Z}                               {_
+Z}                                           {_~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z}                                           {_~~Z} 3.                            {_
+Z}                                           {_~~Z}                               {_
+Z}                                           {_~~ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z}                                           {_~~Z} 4.                            {_
+Z}                                           {_~~Z}                               {_
+Z}                                           {_}~~Z}_______________________________{_
+Z}                                           {_}~~~{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+Z}                                           {_
+Z}                                           {_
+Z}                                           {_
+Z}                                           {_
+Z}___________________________________________{_}
+~{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}
+{}                                ___________________________
+{}                               {Z}[ ]{\\\\\\\\\\\\\\\\\\\\\\\\\}[ ]{_}
+{}                                {LLLLLLLLLLLLLLLLLLLLLLLLLLL}
