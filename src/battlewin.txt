@@ -9,6 +9,6 @@
 ~[ ]    Found Energy Cell           [ ]
 ~[ ]      {I}                         [ ]
 ~[ ]________________________________[ ]
-~{LLLL;;;;;;;;;;;LLLL;;;;;;;;;;;LLLL}
+~{LLLL\\\\\\\\\\\LLLL\\\\\\\\\\\LLLL}
 ~~~{A} [ > Space < ] or [ > Enter < ] {M}
 ~    {LLLLLLLLLLL}    {LLLLLLLLLLL}

@@ -5,10 +5,10 @@
 {} {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
 {}_{I}_{I}_{IV}[   Begin Journey   ]{VI}_{I}_{I}_
 [ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
-[ ]                               [ ]
-[ ]      {I}                        [ ]
-[ ]                               [ ]
-[ ]_______________________________[ ]
-{LLLLLLLLL;;;;;;;;;;;LLLLLLLLLLLLL}
+[ ]   Random Seed;                [ ]
+[ ]  _{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_  [ ]
+[ ] {ZN}                         [ ]{_} [ ]
+[ ]__{\\\\\\\\\\\\\\\\\\\\\\\\\\\}__[ ]
+{LLLLLLLLL\\\\\\\\\\\LLLLLLLLLLLLL}
 {} {A} Press [ > Enter < ] to begin {M}
 {}         {LLLLLLLLLLL}
