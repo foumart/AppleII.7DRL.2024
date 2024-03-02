@@ -1,14 +1,14 @@
 11
-48
+47
 13
-{}{Z}_______________________________{_}
-{} {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
-{}_{I}_{I}_{IV}[   Begin Journey   ]{VI}_{I}_{I}_
-[ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
-[ ]   Random Seed;                [ ]
-[ ]  _{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_{I}_  [ ]
-[ ] {ZN}                         [ ]{_} [ ]
-[ ]__{\\\\\\\\\\\\\\\\\\\\\\\\\\\}__[ ]
-{LLLLLLLLL\\\\\\\\\\\LLLLLLLLLLLLL}
-{} {A} Press [ > Enter < ] to begin {M}
-{}         {LLLLLLLLLLL}
+{} {Z}_{I}_{I}_{I}_{IVW}[  Welcome  ]{WVI}_{I}_{I}_{I}_{_}
+[ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
+[ ]                {K}               [ ]
+[ ]              {H}[ ]{^}[ ]{U}             [ ]
+[ ]                                [ ]
+[ ]                                [ ]
+[ ]                                [ ]
+[ ]________________________________[ ]
+{LLL\\\\\\\\\\\LLLLLLLLLLLLLLLLLLLL}
+{}   [ > Enter < ] {M}
+{}   {LLLLLLLLLLL}

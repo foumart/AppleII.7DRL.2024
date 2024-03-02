@@ -1,0 +1,14 @@
+11
+1
+13
+{Z}                                           {_}  {Z}_______________________________{_}
+{Z}                                           {_}   {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
+{Z}                                           {_}  _{I}_{I}_{IV}[   Begin Journey   ]{VI}_{I}_{I}_
+{Z}                                           {_}  [ ]{LLLLLLLLLLLLLLLLL\\\\\LL\\\\\LL}[ ]
+{Z}                                           {_}  [ ]   Random Seed; {Z}[     ]{_}{Z}[     ]{_} [ ]
+{Z}                                           {_}  [ ] {I}_{I}_________{I}___{\\\\\}__{\\\\\I} [ ]
+{Z}___________________________________________{_}  [__ ]{N}                         [  __]
+{} {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}      {LLLLLLLLLLLLLLLLLLLLLLLLLLL}
+{}                         ___________               ___________
+{}                   Press{Z}[ > SPACE < ]{_}to Re-Seed or{Z}[ > Enter < ]{_}to Begin {M}
+{A}                        {LLLLLLLLLLL}               {LLLLLLLLLLL}
