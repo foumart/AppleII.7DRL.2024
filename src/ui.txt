@@ -3,23 +3,23 @@
 1
 {} {I}_{I}_{I}_{I}_{I}_{I}_{I}_{IVW}[  Story  ]{WVI}_{I}_{I}_{I}_{I}_{I}_{I}_{I}    {I}_{I}_{I}_{I}_{IVW}[  Party  ]{WVI}_{I}_{I}_{I}_{I
 ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z}                                           {_}  {Z} 1.                            {_
-Z}                     {I}                     {_}  {Z}                               {_
-Z}                                           {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z}                                           {_}  {Z} 2.                            {_
-Z}                                           {_}  {Z}                               {_
-Z}                                           {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z} In the land of RogueVerse~ nestled amid   {_}  {Z} 1.                            {_
+Z} the towering peaks of the Dark Mountains  {_}  {Z} {L}                             {_
+Z} lies the ominous Tower of Eternity`       {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z} At its summit~ shrouded in darkness and   {_}  {Z} 2.                            {_
+Z} veiled in mystery~ resides the enigmatic  {_}  {Z} {L}                             {_
+Z} and maleficent wizard~ Morgan the Arcane` {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
 Z}                                           {_}  {Z} 3.                            {_
-Z}                                           {_}  {Z}                               {_
-Z}                                           {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z}                                           {_}  {Z} 4.                            {_
-Z}                                           {_}  {Z}                               {_
-Z}                                           {_}  {Z}_______________________________{_
-Z}                                           {_}   {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+Z} For centuries~ Morgan has cast his evil   {_}  {Z} {L}                             {_
+Z} influence cross the land~ spreading fear  {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z} and gloom among the people of RogueVerse` {_}  {Z} 4.                            {_
+Z} His dark magic has twisted the once-lush  {_}  {Z} {L}                             {_
+Z} landscape into a realm of nightmares and  {_}  {Z}_______________________________{_
+Z} shadows~ and his power knows no bounds`   {_}   {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 Z}                                           {_}                       ______
-{Z}                                           {_}    Loading resources;{ZW}000%{W_}
-{Z}                                           {_}                       {LLLLLL}
-{Z}                                           {_}
+{Z} Now~ as darkness threatens to engulf      {_}    Loading resources;{ZW}000%{W_}
+{Z} the world entirely~ a hero emerges        {_}                       {LLLLLL}
+{Z} from the depths of obscurity```           {_}    Please wait a minute...
 {Z}___________________________________________{_}
 {} {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}
 {}                                ___________________________

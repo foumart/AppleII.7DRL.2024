@@ -3,12 +3,12 @@
 13
 {} {Z}_{I}_{I}_{I}_{IVW}[  Welcome  ]{WVI}_{I}_{I}_{I}_{_}
 [ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
-[ ]                {K}               [ ]
-[ ]              {H}[ ]{^}[ ]{U}             [ ]
-[ ]                                [ ]
-[ ]                                [ ]
-[ ]                                [ ]
-[ ]________________________________[ ]
+[ ]  Shortcuts;    Controls;       [ ]
+[ ]  {LLLLLLLLL}     {LLLLLLLL}  {K}     [ ]
+[ ]  {@}; Confirm    Arrows; {HS}[+]{SU}   [ ]
+[ ]                          {J}     [ ]
+[ ]  {A}; Cancel     I J K L      ?  [ ]
+[ ]________________{\}_{\}_{\}_{\}______{\}__[ ]
 {LLL\\\\\\\\\\\LLLLLLLLLLLLLLLLLLLL}
 {}   [ > Enter < ] {M}
 {}   {LLLLLLLLLLL}

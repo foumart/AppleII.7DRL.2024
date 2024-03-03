@@ -1,14 +1,14 @@
 11
 1
 13
-{Z}                                           {_}  {Z}_______________________________{_}
-{Z}                                           {_}   {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
-{Z}                                           {_}  _{I}_{I}_{IV}[   Begin Journey   ]{VI}_{I}_{I}_
-{Z}                                           {_}  [ ]{LLLLLLLLLLLLLLLLL\\\\\LL\\\\\LL}[ ]
-{Z}                                           {_}  [ ]   Random Seed; {Z}[     ]{_}{Z}[     ]{_} [ ]
-{Z}                                           {_}  [ ] {I}_{I}_________{I}___{\\\\\}__{\\\\\I} [ ]
+{Z} deadly traps~ and malign guardians~ each  {_}  {Z}_______________________________{_}
+{Z} level more treacherous than the last`     {_}   {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
+{Z} Only by wending through every floor of    {_}  _{I}_{I}_{IV}[   Begin Journey   ]{VI}_{I}_{I}_
+{Z} the tower~ overcoming every obstacle in   {_}  [ ]{LLLLLLLLLLLLLLLLL\\\\\LL\\\\\LL}[ ]
+{Z} their path~ can the hero hope to face     {_}  [ ]   Random Seed; {Z}[     ]{_}{Z}[     ]{_} [ ]
+{Z} Morgan in a battle for the ages`         {_}  [ ]  _______________{\\\\\}__{\\\\\}  [ ]
 {Z}___________________________________________{_}  [__ ]{N}                         [  __]
 {} {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}      {LLLLLLLLLLLLLLLLLLLLLLLLLLL}
-{}                         ___________               ___________
-{}                   Press{Z}[ > SPACE < ]{_}to Re-Seed or{Z}[ > Enter < ]{_}to Begin {M}
-{A}                        {LLLLLLLLLLL}               {LLLLLLLLLLL}
+{}                  ___________                      ___________
+{}            Press{Z}[ > SPACE < ]{_}to randomize Seed or{Z}[ > Enter < ]{_}to Begin {M}
+{A}                 {LLLLLLLLLLL}                      {LLLLLLLLLLL}
