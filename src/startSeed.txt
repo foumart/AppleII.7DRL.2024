@@ -1,12 +1,12 @@
 11
 1
 13
-{Z} deadly traps~ and malign guardians~ each  {_}  {Z}_______________________________{_}
-{Z} level more treacherous than the last`     {_}   {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
+{Z} deadly traps~ and malign guardians await{I} {_}  {Z}_______________________________{_}
+{Z}                                           {_}   {LLLLLL\\\\\\\\\\\\\\\\\\\LLLLLL}
 {Z} Only by wending through every floor of    {_}  _{I}_{I}_{IV}[   Begin Journey   ]{VI}_{I}_{I}_
-{Z} the tower~ overcoming every obstacle in   {_}  [ ]{LLLLLLLLLLLLLLLLL\\\\\LL\\\\\LL}[ ]
-{Z} their path~ can the hero hope to face     {_}  [ ]   Random Seed; {Z}[     ]{_}{Z}[     ]{_} [ ]
-{Z} Morgan in a battle for the ages`          {_}  [ ]       {I}_________{\\\\\}_{I}{LLLLL}  [ ]
+{Z} the tower~ overcoming every obstacle~     {_}  [ ]{LLLLLLLLLLLLLLLLL\\\\\LL\\\\\LL}[ ]
+{Z} can the hero hope to face Morgan in       {_}  [ ]   Random Seed; {Z}[     ]{_}{Z}[     ]{_} [ ]
+{Z} the battle for the ages!                  {_}  [ ]       {I}_________{\\\\\}_{I}{LLLLL}  [ ]
 {Z}___________________________________________{_}  [________ ]{N}             [  ________]
 {} {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}            {LLLLLLLLLLLLLLL}
 {}                  ___________                      ___________
