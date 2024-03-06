@@ -87,9 +87,18 @@ function readFile(files, cb) {
 	if (file.toLowerCase().indexOf('.bas') > -1) {
 		// Compile a basic text file (.bas) into the tokenized BAS format and insert into the DSK
 		// =======================================================================================
+
+		// Remove all REM comments in the basic file
+		let basic = fs.readFileSync("public/tmp/"+file, 'utf8');
+		let regex = /^(?:\d+\s+)?REM.*|(:\s*)?REM.*|^\d+\s*$/gm;
+		basic = "0 REM " + title + " by Noncho Savov\r\n" + basic.replace(regex, ""); // remove REM comments
+		// Overwrite the file in tmp/
+		fs.writeFile("public/tmp/"+file, basic, function(err) {
+			if (err) throw err;
+		});
+
 		bas.push(file);
 		bascallbacks.push(false);
-		//console.log(`java -jar ${appleCommander} -bas public/json/disks/${title}.dsk ${name} bas 0x800 < public/tmp/${file}`);
 		executeJava(`java -jar ${appleCommander} -bas public/json/disks/${title}.dsk ${name} bas 0x800 < public/tmp/${file}`, e => {
 			console.log(`Compiled BASIC file: ${name} at $800 from public/tmp/${file}`);
 			bascallbacks[bas.indexOf(file)] = true;
