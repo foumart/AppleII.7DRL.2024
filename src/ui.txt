@@ -2,7 +2,7 @@
 1
 1
 {} {I}_{I}_{I}_{I}_{I}_{I}_{I}_{IVW}[  Story  ]{WVI}_{I}_{I}_{I}_{I}_{I}_{I}_{I}    {I}_{I}_{I}_{IVW}[     n/a     ]{WVI}_{I}_{I}_{I
-ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_}  {ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
 Z} In the land of RogueVerse~ nestled amid   {_}  {Z}  HP; --/--   Str; --  Att; -- {_
 Z} the towering peaks of the Dark Mountains  {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
 Z} lies the ominous Tower of Eternity`       {_}  {Z}  MP; --/--   Dex; --  AC; --- {_
