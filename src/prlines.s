@@ -16,6 +16,13 @@ READLOOP
     INC $7CF0       ; Increment the column index
     JMP READLOOP    ; Continue reading the next character
 
+ENDTXT
+    INC $7CFC       ; Increment current line count
+    LDA #$00        ; Reset column index
+    STA $7CF0       ; Store it in the column index variable
+    JMP READLOOP    ; Start reading the next string
+    RTS             ; Return from subroutine
+
 ENDLINE
     LDA #$00        ; Load 0 for next line
     STA $7CF0       ; Reset column index
@@ -115,11 +122,4 @@ PRCHAR
     TAX             ; Store result in X
     LDA $7CF1       ; Load the character to print
     JSR $FDED       ; Print the character
-    RTS             ; Return from subroutine
-
-ENDTXT
-    INC $7CFC       ; Increment current line count
-    LDA #$00        ; Reset column index
-    STA $7CF0       ; Store it in the column index variable
-    JMP READLOOP    ; Start reading the next string
     RTS             ; Return from subroutine
