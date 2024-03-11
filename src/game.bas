@@ -130,7 +130,7 @@
 
 9000 GOSUB 30500 : REM DISPLAY DEBUG MAP
 
-9100 V1 = 0 : V2 = 42 : V3 = 0 : V4 = 20 : GOSUB 23000
+9100 V1 = 0 : V2 = 45 : V3 = 0 : V4 = 21 : GOSUB 23000
 9200 HOME : GOSUB 23100 : REM CLEAR GAME SCREEN
 
 9500 GOSUB 22000 : REM DRAW ALL ROOMS ROUTINE
@@ -141,7 +141,7 @@
 9990 K = 0 : REM VTAB(1) : END : BREAK JUST BEFORE MAIN GAME LOOP
 
 10000 PLAYER(1) = X : PLAYER(2) = Y : PLAYER(3) = A
-10020 IF DEBUG THEN HTAB(40) : VTAB(1) : ? V;" ";M;" ";RX;"x";RY;" ";ZX;"*";ZY;" ";
+10020 IF DEBUG > 1 THEN HTAB(40) : VTAB(1) : ? V;" ";M;" ";RX;"x";RY;" ";ZX;"*";ZY;" ";
 10050 WW = X : GOSUB 200 : VTAB(Y) : ? "@" : REM DRAW PLAYER
 
 10750 KY = PEEK(49152) : GOSUB 24000 : REM GET LAST PRESSED KEY AND DISPLAY DEBUG CURSOR INFO
@@ -296,7 +296,7 @@
 
 16300 IF YY < 4 THEN GOTO 16500
 16310 IF V > 1 AND Y1 > 1 AND VISIBLES(X1, Y1-1) = 0 THEN PRINT " _______ "; : GOTO 16500
-16350 IF V > 1 THEN ? " ";M$;"\\\\\\\\\\\\\\";N$;" "; : REM DRAW IN BETWEEN ROOM VERTICAL SPACE
+16350 IF V > 1 OR (V = 1 AND VISIBLES(X1, Y1-1) > 0) THEN ? " ";M$;"\\\\\\\\\\\\\\";N$;" "; : GOTO 17000 : REM DRAW IN BETWEEN ROOM VERTICAL SPACE
 16500 IF V = 1 THEN ? " _";M$;"I";N$;"_";M$;"I";N$;"_";M$;"I";N$;"_ "
 
 16799 REM DRAW VISIBLE EMPTY ROOM
@@ -304,8 +304,6 @@
 17020 IF V > 1 AND TURN = 0 THEN HTAB(XX+1) : VTAB(YY+3) : ? M$;"Z_";N$;" ";ROOMS$(INSIDES(X1, Y1)+1);"  ";M$;"Z_";N$ : GOTO 17100
 17050 IF V > 1 THEN HTAB(XX+2) : VTAB(YY+3) : ? M$;"_";N$;" ";ROOMS$(INSIDES(X1, Y1)+1);"  ";M$;"Z";N$
 17100 IF V > 1 THEN HTAB(XX+1) : VTAB(YY+4) : ? M$;"Z_";N$;"     ";M$;"Z_";N$
-
-17110 REM VTAB(24) : ? MI$;XX;NI$;
 
 17299 REM DRAW DISCOVERED ROOMS AS GREYED OUT IF THEY ARE NOT REVELAED OUT YET
 17300 IF V = 1 THEN WW = XX+1 : GOSUB 200 : VTAB(YY+2) : ? M$;"ZVWVWVWV_";N$
@@ -369,19 +367,19 @@
 20422 IF CLASS = 1 THEN ITEMS$(2, 1) = "Wooden Shield" : ITEMS$(2, 2) = "Iron Shield" : ITEMS$(2, 3) = "Mithril Shield" : ITEMS$(2, 4) = "Unidentified"
 20424 IF CLASS = 1 THEN ITEMS$(3, 1) = "Leather Armor" : ITEMS$(3, 2) = "Chain Mail" : ITEMS$(3, 3) = "Plate Mail" : ITEMS$(3, 4) = "Unidentified"
 20426 IF CLASS = 1 THEN ITEMS$(4, 1) = "Bronze Helm" : ITEMS$(4, 2) = "Iron Helm" : ITEMS$(4, 3) = "Mithril Helm" : ITEMS$(4, 4) = "Unidentified"
-20428 IF CLASS = 1 THEN ITEMS$(5, 1) = "Bracer" : ITEMS$(5, 2) = "Ring" : ITEMS$(5, 3) = "Amulet" : ITEMS$(5, 4) = "Unidentified"
+20428 IF CLASS = 1 THEN ITEMS$(5, 1) = "Bracer" : ITEMS$(5, 2) = "Unidentified" : ITEMS$(5, 3) = "Unidentified" : ITEMS$(5, 4) = "Unidentified"
 
-20430 IF CLASS = 2 THEN ITEMS$(1, 1) = "Bronze Dagger" : ITEMS$(1, 2) = "Iron Sword" : ITEMS$(1, 3) = "Mithril Sword" : ITEMS$(1, 4) = "Unidentified"
-20432 IF CLASS = 2 THEN ITEMS$(2, 1) = "Shortbow" : ITEMS$(2, 2) = "Iron Shield" : ITEMS$(2, 3) = "Mithril Shield" : ITEMS$(2, 4) = "Unidentified"
-20434 IF CLASS = 2 THEN ITEMS$(3, 1) = "Leather Vest" : ITEMS$(3, 2) = "Chain Mail" : ITEMS$(3, 3) = "Plate Mail" : ITEMS$(3, 4) = "Unidentified"
-20436 IF CLASS = 2 THEN ITEMS$(4, 1) = "Ranger Hood" : ITEMS$(4, 2) = "Iron Helm" : ITEMS$(4, 3) = "Mithril Helm" : ITEMS$(4, 4) = "Unidentified"
-20438 IF CLASS = 2 THEN ITEMS$(5, 1) = "Amulet" : ITEMS$(5, 2) = "Ring" : ITEMS$(5, 3) = "Bracelet" : ITEMS$(5, 4) = "Unidentified"
+20430 IF CLASS = 2 THEN ITEMS$(1, 1) = "Iron Dagger" : ITEMS$(1, 2) = "Obsidian Knife" : ITEMS$(1, 3) = "Mithril Dagger" : ITEMS$(1, 4) = "Unidentified"
+20432 IF CLASS = 2 THEN ITEMS$(2, 1) = "Shortbow" : ITEMS$(2, 2) = "Longbow" : ITEMS$(2, 3) = "Crossbow" : ITEMS$(2, 4) = "Unidentified"
+20434 IF CLASS = 2 THEN ITEMS$(3, 1) = "Leather Vest" : ITEMS$(3, 2) = "Unidentified" : ITEMS$(3, 3) = "Unidentified" : ITEMS$(3, 4) = "Unidentified"
+20436 IF CLASS = 2 THEN ITEMS$(4, 1) = "Ranger Hood" : ITEMS$(4, 2) = "Unidentified" : ITEMS$(4, 3) = "Unidentified" : ITEMS$(4, 4) = "Unidentified"
+20438 IF CLASS = 2 THEN ITEMS$(5, 1) = "Amulet" : ITEMS$(5, 2) = "Unidentified" : ITEMS$(5, 3) = "Unidentified" : ITEMS$(5, 4) = "Unidentified"
 
-20440 IF CLASS = 3 THEN ITEMS$(1, 1) = "Quarterstaff" : ITEMS$(1, 2) = "Iron Sword" : ITEMS$(1, 3) = "Mithril Sword" : ITEMS$(1, 4) = "Unidentified"
-20442 IF CLASS = 3 THEN ITEMS$(2, 1) = "Spellbook" : ITEMS$(2, 2) = "Iron Shield" : ITEMS$(2, 3) = "Mithril Shield" : ITEMS$(2, 4) = "Unidentified"
-20444 IF CLASS = 3 THEN ITEMS$(3, 1) = "Cloth Robe" : ITEMS$(3, 2) = "Chain Mail" : ITEMS$(3, 3) = "Plate Mail" : ITEMS$(3, 4) = "Unidentified"
-20446 IF CLASS = 3 THEN ITEMS$(4, 1) = "Wizard Hat" : ITEMS$(4, 2) = "Iron Helm" : ITEMS$(4, 3) = "Mithril Helm" : ITEMS$(4, 4) = "Unidentified"
-20448 IF CLASS = 3 THEN ITEMS$(5, 1) = "Ring" : ITEMS$(5, 2) = "Amulet" : ITEMS$(5, 3) = "Bracelet" : ITEMS$(5, 4) = "Unidentified"
+20440 IF CLASS = 3 THEN ITEMS$(1, 1) = "Quarterstaff" : ITEMS$(1, 2) = "Unidentified" : ITEMS$(1, 3) = "Unidentified" : ITEMS$(1, 4) = "Unidentified"
+20442 IF CLASS = 3 THEN ITEMS$(2, 1) = "Spellbook" : ITEMS$(2, 2) = "Unidentified" : ITEMS$(2, 3) = "Unidentified" : ITEMS$(2, 4) = "Unidentified"
+20444 IF CLASS = 3 THEN ITEMS$(3, 1) = "Cloth Robe" : ITEMS$(3, 2) = "Unidentified" : ITEMS$(3, 3) = "Plate Mail" : ITEMS$(3, 4) = "Unidentified"
+20446 IF CLASS = 3 THEN ITEMS$(4, 1) = "Wizard Hat" : ITEMS$(4, 2) = "Unidentified" : ITEMS$(4, 3) = "Mithril Helm" : ITEMS$(4, 4) = "Unidentified"
+20448 IF CLASS = 3 THEN ITEMS$(5, 1) = "Ring" : ITEMS$(5, 2) = "Unidentified" : ITEMS$(5, 3) = "Unidentified" : ITEMS$(5, 4) = "Unidentified"
 20490 RETURN
 
 

@@ -1,14 +1,14 @@
 11
-47
+48
 13
-{} {Z}_{I}_{I}_{I}_{IVW}[  Welcome  ]{WVI}_{I}_{I}_{I}_{_}
-[ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
-[ ]  Shortcuts;    Controls;       [ ]
-[ ]  {LLLLLLLLL}     {LLLLLLLL}  {K}     [ ]
-[ ]  {@}; Confirm    Arrows; {HS}[+]{SU}   [ ]
-[ ]                          {J}     [ ]
-[ ]  {A}; Cancel     I J K L      ?  [ ]
-[ ]________________{\}_{\}_{\}_{\}______{\}__[ ]
-{LLL\\\\\\\\\\\LLLLLLLLLLLLLLLLLLLL}
-{}   [ > Enter < ] {M}
-{}   {LLLLLLLLLLL}
+{}
+{} {LLLLLLLLLL\\\\\\\\\\\LLLLLLLLLL}
+{I}_{I}_{I}_{I}_{IVW}[  Welcome  ]{WVI}_{I}_{I}_{I}_{I}
+[ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
+[ ]  Shortcuts;    Controls;      [ ]
+[ ]  {LLLLLLLLL}     {LLLLLLLL}  {K}    [ ]
+[ ]  {@}; Confirm    Arrows; {HS}[+]{SU}  [ ]
+[ ]                          {J}    [ ]
+[ ]  {A}; Cancel     I J K L     ?  [ ]
+[ ]________________{\}_{\}_{\}_{\}_____{\}__[ ]
+{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}
