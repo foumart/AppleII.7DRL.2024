@@ -4,7 +4,7 @@ This RogueLike engine was developed during 7DRL 2024 challenge. It features Dept
 
 Target: Apple II machine capable of rendering in 80 COL text mode and utilizing the Mouse Text character pallette.
 
-![Mouse Text characters](https://www.foumartgames.com/dev/7drl/2024-untitled/chars.png)
+![Mouse Text characters](https://www.foumartgames.com/dev/7drl/2024-untitled/mousetext.png)
 
 Written mainly in plain BASIC, except where it wasn't possible to avoiding assembly routines. Such routine is the character screen reading mechanism (readchar.s). A lot of other implementations will have to be rewritten in ASM as well in order to work on a real Apple II machine decently enough. Righ now the text loading algorithm is being rewritten in ASM to greatly speed the loading and buffering processes..
 
