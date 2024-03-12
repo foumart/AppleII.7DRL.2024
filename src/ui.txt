@@ -1,4 +1,4 @@
-I_I_I_I_I_I_I_IVW  Story  WVI_I_I_I_I_I_I_I    I_I_I_I_IVW  Party  WVI_I_I_I_I
+ I_I_I_I_I_I_I_IVW  Story  WVI_I_I_I_I_I_I_I    I_I_I_I_IVW  Party  WVI_I_I_I_I
 ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
 Z In the land of RogueVerse~ nestled amid   _  Z 1.                            _
 Z the towering peaks of the Dark Mountains  _  Z L                             _
@@ -21,4 +21,4 @@ Z                                           _                       ______
  LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
                                 ___________________________
                                Z \\\\\\\\\\\\\\\\\\\\\\\\\ _
-                                LLLLLLLLLLLLLLLLLLLLLLLLLLL
+                                LLLLLLLLLLLLLLLLLLLLLLLLLLL
