@@ -1,27 +1,20 @@
-24
-1
-1
-{} {I}_{I}_{I}_{I}_{I}_{I}_{I}_{IVW}[  Story  ]{WVI}_{I}_{I}_{I}_{I}_{I}_{I}_{I}    {I}_{I}_{I}_{IVW}[     n/a     ]{WVI}_{I}_{I}_{I
-ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_}  {ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
-Z} In the land of RogueVerse~ nestled amid   {_}  {Z}  HP; --/--   Str; --  Att; -- {_
-Z} the towering peaks of the Dark Mountains  {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z} lies the ominous Tower of Eternity`       {_}  {Z}  MP; --/--   Dex; --  AC; --- {_
-Z} At its summit~ shrouded in darkness and   {_}  {ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z} veiled in mystery~ resides the enigmatic  {_}  {Z}  Skill; --   Int; --  Wis; -- {_
-Z} and maleficent wizard~ Morgan the Arcane` {_}  {Z}_______________________________{_
-Z}                                           {_}   {LLLLLLLLL\\\\\\\\\\\\\LLLLLLLLL
-Z} For centuries~ Morgan has cast his evil   {_}   {I}_{I}_{I}_{IVW}[  Equipment  ]{WVI}_{I}_{I}_{I
-Z} influence across the land~ spreading fear {_}  {ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
-Z} and gloom among the people of RogueVerse` {_}  {Z}                               {_
-Z} His dark magic has twisted the once-lush  {_}  {Z}                               {_
-Z} landscape into a realm of nightmares and  {_}  {Z}_______________________________{_
-Z} shadows~ and his power knows no bounds`   {_}   {LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
-Z}                                           {_
-Z} Now~ as darkness threatens to engulf      {_}                       ______
-{Z} the world entirely~ a hero emerges        {_}    Loading resources;{ZW}000%{W_}
-{Z} from the depths of obscurity```           {_}                       {LLLLLL}
-{Z}___________________________________________{_}
-{}
-{}                                ___________________________
-{}                               {Z}[ ]{\\\\\\\\\\\\\\\\\\\\\\\\\}[ ]{_}
-{}                                {LLLLLLLLLLLLLLLLLLLLLLLLLLL}
+ I_I_I_I_I_I_I_IVW  Story  WVI_I_I_I_I_I_I_I    I_I_I_I_IVW  Stats  WVI_I_I_I_I
+ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_  ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
+Z In the land of RogueVerse, nestled amid   _  Z HP: --/--   Str: --  Att: --  _
+Z the towering peaks of the Dark Mountains  _  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z lies the ominous Tower of Eternity.       _  Z MP: --/--   Dex: --  AC: ---  _
+Z At its summit, shrouded in darkness and   _  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+Z veiled in mystery, resides the enigmatic  _  Z Skill: --   Int: --  Wis: --  _
+Z and maleficent wizard, Morgan the Arcane. _  Z________________________________
+Z                                           _   LLLLLLLLL\\\\\\\\\\\\\LLLLLLLLL
+Z For centuries, Morgan has cast his evil   _   I_I_I_IVW  Equipment  WVI_I_I_I
+Z influence across the land, spreading fear _  ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
+Z and gloom among the people of RogueVerse. _  Z                               _
+Z His dark magic has twisted the once-lush  _  Z                               _
+Z landscape into a realm of nightmares and  _  Z________________________________
+Z shadows, and his power knows no bounds.   _   LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+Z                                           _
+Z Now, as darkness threatens to engulf      _                       ______
+Z the world entirely, a hero emerges        _    Loading resources:ZW000%W_
+Z from the depths of obscurity...           _                       LLLLLL
+Z____________________________________________
