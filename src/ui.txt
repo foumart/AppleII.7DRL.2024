@@ -1,10 +1,10 @@
  I_I_I_I_I_I_I_IVW  Story  WVI_I_I_I_I_I_I_I    I_I_I_I_IVW  Stats  WVI_I_I_I_I
 ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_  ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
-Z In the land of RogueVerse, nestled amid   _  Z HP: --/--   Str: --  Att: --  _
+Z In the land of RogueVerse, nestled amid   _  Z  HP: --/--   Str: -   Att: -  _
 Z the towering peaks of the Dark Mountains  _  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z lies the ominous Tower of Eternity.       _  Z MP: --/--   Dex: --  AC: ---  _
+Z lies the ominous Tower of Eternity.       _  Z  MP: --/--   Dex: -   AC: --  _
 Z At its summit, shrouded in darkness and   _  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z veiled in mystery, resides the enigmatic  _  Z Skill: --   Int: --  Wis: --  _
+Z veiled in mystery, resides the enigmatic  _  Z  Skill: --   Int: -   Wis: -  _
 Z and maleficent wizard, Morgan the Arcane. _  Z________________________________
 Z                                           _   LLLLLLLLL\\\\\\\\\\\\\LLLLLLLLL
 Z For centuries, Morgan has cast his evil   _   I_I_I_IVW  Equipment  WVI_I_I_I

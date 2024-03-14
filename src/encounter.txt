@@ -1,14 +1,23 @@
-11
-47
-13
-{} {ZI}_{I}_{I}_{IVW}[  Encounter  ]{WVI}_{I}_{I}_{I_}
-[ ]{LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL}[ ]
-[ ]  You face; 3 Orcs       ('20)  [ ]
-[ ]            2 Orcs       ('30)  [ ]
-[ ]            2 Goblins    ('40)  [ ]
-[ ]            1 Spetre     ('50)  [ ]
-[ ]            {I}                   [ ]
-[ ]________________________________[ ]
-{LLLLLLLL\\\LLLLLLLLLL\\\LLLLLLLLLL}
-{} Do you [>F<] Fight or [>R<] Retreat?
-{}        {LLL} {L}        {LLL} {L}
+D DZI_DI_DI_DIVW  Encounter  DWVI_DI_DI_DI_
+ DLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL 
+   You face: 3 Orcs       ('20)   
+             2 Orcs       ('30)   
+             2 Goblins    ('40)   
+             1 Spetre     ('50)   
+             DI                    
+ ________________________________ 
+DLLLLLLLL\\\LLLLLLLLLL\\\LLLLLLLLLL
+D Do you >F< Fight or >R< Retreat?
+D        DLLL DL        DLLL DL
+
+ Z_I_I_I_IVW  Victory  WVI_I_I_I__
+ LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL 
+     Searching for treasure I     
+                                  
+     Found Unknown Weapon         
+     Found Unknown Item           
+       I                          
+ ________________________________ 
+LL\\\\\\\\\\\LLLLLLLLLLLLLLLLLLLLL
+    > Enter <  M
+   LLLLLLLLLLL
