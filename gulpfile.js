@@ -138,7 +138,7 @@ function readFile(files, cb) {
 			if (debug) merlinProcess.stdout.on('data', (data) => console.log(data));
 			merlinProcess.stderr.on('data', (data) => { console.error(`Merlin 32 error: ${data}`); });
 			merlinProcess.on('close', (code) => {
-				console.log(`Compiled BINARY file: ${name} at $${_address} from public/tmp/${file}`);
+				console.log(`Compiled BINARY file: ${name} at $${_address} from public/tmp/${file} public/json/disks/${title}.dsk ${name}`, );
 				executeJava(`java -jar ${appleCommander} -p public/json/disks/${title}.dsk ${name} bin 0x${_address} < public/tmp/${name}`, e => {
 					//console.log(`Transferred BINARY file: ${name} to be loaded at $${_address}`);
 					bincallbacks[bin.indexOf(file)] = true;
@@ -177,7 +177,7 @@ function readFile(files, cb) {
 		// ========================================================
 		txt.push(file);
 		txtcallbacks.push(false);
-		executeJava(`java -jar ${appleCommander} -pt public/json/disks/${title}.dsk ${name} txt < public/tmp/${name}.txt`, e => {
+		executeJava(`java -jar ${appleCommander} -ptx public/json/disks/${title}.dsk ${name} txt < public/tmp/${name}.txt`, e => {
 			console.log(`Copied TXT file: ${name} from public/tmp/${file}`);
 			txtcallbacks[txt.indexOf(file)] = true;
 			if (checkCompilation()) cb();
