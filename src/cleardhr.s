@@ -1,4 +1,4 @@
-	ORG $0350
+	ORG $1E50
 
 HGR_CLEAR
 	LDA	#$00
