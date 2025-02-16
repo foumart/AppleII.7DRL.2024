@@ -12,7 +12,7 @@ The engine is written mainly in plain BASIC with some support ASSEMBLY routines.
 
 The project is organized in several BASIC files in attempt to better optimize the game for the limited Apple II memory. Initially a STARTUP.BAS file loads all the needed assembly routines and text data into memory. It then loads a MAIN.BAS file that is responsible with displaying all UI text and level generation. Finally the GAME.BAS is loaded at address $4000 instead in the default $800 so the memory available for the BASIC program and its variables could be expanded into a straight ~24kb range ($4000 - $9CFF), keeping the HGR page safe to display images, with the possibility to use the second text page ($800-$BFF) and make use of text page flipping in 80 Column mode if needed.
 
-Preview: https://www.foumartgames.com/dev/7drl/2024-untitled/#json/disks/7DRL2024.dsk
+Preview: https://www.foumartgames.com/dev/7drl/2024-untitled/#json/disks/7drl-2024.dsk
 
 Clocking the emulator at 4Mhz (like an accelerated CPU) or even better at 10Mhz, makes the game run responsively enough for the today's standards. But it works on a real Apple II hardware decently enough
 
