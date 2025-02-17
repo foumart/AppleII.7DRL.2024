@@ -11,7 +11,7 @@ START
 LOOP
 
         LDA ZED         ; Check if any bytes remain at ${ZEE}{ZED}
-        ORA ZEE         ; and if both are ero, then complete.
+        ORA ZEE         ; and if both are zero, then complete.
         BEQ DONEFIL
 
 PRTCHAR

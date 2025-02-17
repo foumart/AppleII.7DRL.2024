@@ -13,8 +13,8 @@ Z and gloom among the people of RogueVerse. _  Z                      
 Z His dark magic has twisted the once-lush  _  Z                               _
 Z landscape into a realm of nightmares and  _  Z________________________________
 Z shadows, and his power knows no bounds.   _   LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
-Z                                           _
-Z Now, as darkness threatens to engulf      _                       ______
-Z the world entirely, a hero emerges        _    Loading resources:ZW000%W_
-Z from the depths of obscurity...           _                       LLLLLL
-Z____________________________________________
+Z                                           _                       ______
+Z Now, as darkness threatens to engulf      _    Loading resources:ZW000%W_
+Z the world entirely, a hero emerges        _                       LLLLLL
+Z from the depths of obscurity...           _    User input needed for proper
+Z____________________________________________    variable randomization.
