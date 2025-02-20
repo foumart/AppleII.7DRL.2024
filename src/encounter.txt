@@ -1,10 +1,10 @@
 D DZI_DI_DI_DIVW  Encounter  DWVI_DI_DI_DI_
  DLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL 
-   You face: 3 Orcs       ('20)   
-             2 Orcs       ('30)   
-             2 Goblins    ('40)   
-             1 Spetre     ('50)   
-             DI                    
+   You face:                      
+                                  
+                                  
+                                  
+                                  
  ________________________________ 
 DLLLLLLLL\\\LLLLLLLLLL\\\LLLLLLLLLL
 D Do you >F< Fight or >R< Retreat?
@@ -14,29 +14,17 @@ D        DLLL DL        DLLL DL
  LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL 
      Searching for treasure I     
                                   
-     Found Unknown Weapon         
-     Found Unknown Item           
-       I                          
+                                  
+                                  
+                                  
  ________________________________ 
 LL\\\\\\\\\\\LLLLLLLLLLLLLLLLLLLLL
     > Enter <  M
    LLLLLLLLLLL
-    > Enter <  M
-   LLLLLLLLLLL
-
- I_I_I_I_IVW  Stats  WVI_I_I_I_I
- ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
- Z  HP: --/--   Str: -   Att: -  _
- ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
- Z  MP: --/--   Dex: -   AC: --  _
- ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
- Z  Skill: --   Int: -   Wis: -  _
- Z________________________________
- LLLLLLLLL\\\\\\\\\\\\\LLLLLLLLL
 
  I_I_I_IVW  Equipment  WVI_I_I_I
 ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
-Z                               _
-Z                               _
-Z________________________________
- LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+Z                               _
+Z                               _
+Z________________________________
+ LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
