@@ -1,18 +1,18 @@
- I_I_I_I_I_I_I_IVW  Story  WVI_I_I_I_I_I_I_I    I_I_I_I_IVW  Stats  WVI_I_I_I_I
+ I_I_I_I_I_I_I_IVW  Story  WVI_I_I_I_I_I_I_I    I_I_I_I_VW  Credits  WV_I_I_I_I
 ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_  ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
-Z In the land of RogueVerse, nestled amid   _  Z  HP: --/--   Str: -   Att: -  _
-Z the towering peaks of the Dark Mountains  _  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z lies the ominous Tower of Eternity.       _  Z  MP: --/--   Dex: -   AC: --  _
+Z In the land of RogueVerse, nestled amid   _  Z     Game by FoumartGames,     _
+Z the towering peaks of the Dark Mountains  _  Z   Developed by Noncho Savov   _
+Z lies the ominous Tower of Eternity.       _  Z                               _
 Z At its summit, shrouded in darkness and   _  ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
-Z veiled in mystery, resides the enigmatic  _  Z  Skill: --   Int: -   Wis: -  _
+Z veiled in mystery, resides the enigmatic  _  Z   version 0.2 - 20/Feb/2025   _
 Z and maleficent wizard, Morgan the Arcane. _  Z________________________________
-Z                                           _   LLLLLLLLL\\\\\\\\\\\\\LLLLLLLLL
-Z For centuries, Morgan has cast his evil   _   I_I_I_IVW  Equipment  WVI_I_I_I
-Z influence across the land, spreading fear _  ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
-Z and gloom among the people of RogueVerse. _  Z                               _
-Z His dark magic has twisted the once-lush  _  Z                               _
-Z landscape into a realm of nightmares and  _  Z________________________________
-Z shadows, and his power knows no bounds.   _   LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+Z                                           _   LLLLLLL\\\\\\\\\\\\\\\\LLLLLLLL
+Z For centuries, Morgan has cast his evil   _   I_I_IVW  Achievements  WVI_I_I
+Z influence across the land, spreading fear _  ZLLL\\\\\\LLL\\\\\\LLL\\\\\\LLL_
+Z and gloom among the people of RogueVerse. _  Z  Z|iron|_ Z  II  _ Z  II  _  _
+Z His dark magic has twisted the once-lush  _  Z  Z|fist|_ Z      _ Z      _  _
+Z landscape into a realm of nightmares and  _  Z___\\\\\\___\\\\\\___\\\\\\____
+Z shadows, and his power knows no bounds.   _   LLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 Z                                           _                       ______
 Z Now, as darkness threatens to engulf      _    Loading resources:ZW000%W_
 Z the world entirely, a hero emerges        _                       LLLLLL

@@ -23,3 +23,20 @@ D        DLLL DL        DLLL DL
    LLLLLLLLLLL
     > Enter <  M
    LLLLLLLLLLL
+
+ I_I_I_I_IVW  Stats  WVI_I_I_I_I
+ ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
+ Z  HP: --/--   Str: -   Att: -  _
+ ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+ Z  MP: --/--   Dex: -   AC: --  _
+ ZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_
+ Z  Skill: --   Int: -   Wis: -  _
+ Z________________________________
+ LLLLLLLLL\\\\\\\\\\\\\LLLLLLLLL
+
+ I_I_I_IVW  Equipment  WVI_I_I_I
+ZLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL_
+Z                               _
+Z                               _
+Z________________________________
+ LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
