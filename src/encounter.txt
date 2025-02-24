@@ -14,9 +14,9 @@ Z________________________________
                                  
  _______________________________ 
 LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
-LLLLLLLL\\\LLLLLLLLLL\\\LLLLLLLLL
- Do YouZ>F<_Fight orZ>R<_Retreat?
-        LLL          LLL
+LLLLLLL\\\LLLLLLLLLL\\\LLLLLLLLLL
+Do YouZ>F<_Fight orZ>R<_Retreat? 
+       LLL          LLL
 LL\\\\\\\\\\\LLLLLLLLLLLLLLLLLLLL
     > Enter <                       
    LLLLLLLLLLL
