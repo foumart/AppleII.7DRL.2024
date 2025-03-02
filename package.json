@@ -1,7 +1,7 @@
 {
 	"name": "7drl-runes-of-eternity",
-	"version": "0.0.1",
-	"description": "BASIC Project setup for Apple II with automatic build and live-reload",
+	"version": "0.0.2",
+	"description": "Roguelike game for Apple IIe",
 	"main": "src/scripts/app.js",
 	"scripts": {
 		"build": "npx del-cli public --force && gulp",

@@ -1,11 +1,11 @@
   Legend:NVWVWVWVWVWVW  Enemies:NVWVWVWVWVWV_
-_                     _                     _
-_ @  The chosen one   _ K  Melee fighter    _
-_    LLL LLLLLL LLL   _            _        _
-_ ]  Stage entrance   _ A  Archer ZB_ Boss  _
-_           _         _            L        _
-_Z^  Door  Z[_ Pool   _ W  Spell-caster     _
-_ _         \         `SSSSSSSSSSSSSSSSSSSSS_
+_                     _  _                  _
+_ @  The chosen one   _ ZA_ Arcane Master   _
+_    LLL LLLLLL LLL   _  \                  _
+_ ]  Stage entrance   _ ZB_ Stage Boss      _
+_           _         T__\___________________
+_Z^  Door  Z[_ Pool                         _
+_ _         \                               _
 _ZK_ Exit  Z$_ Gold    XY  Treasure chest   _
 _ L         L           I                   _
 _ @  Increase Health    W  Unexplored Area  _
